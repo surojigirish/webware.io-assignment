@@ -1,0 +1,84 @@
+.img-area{
+    margin-left: 120px;
+}
+
+.nav-link active{
+    text-decoration-thickness: 50px;
+}
+
+button{
+    margin-left: 900px;
+    background-color: rgba(241, 136, 45, 0.888);
+}
+button .btn{
+    background-color: orangered;
+}
+
+/* @import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&family=Roboto:wght@100;300;400;500;700;900&display=swap'); */
+
+.top-banner{
+    width:100%;
+    background: url(Desktop\ banner.jpg) no-repeat center;
+    background-size:cover;
+    padding: 16.1242rem, 0  9.0125rem;
+    height: 800px;
+    background-color: #F5F8F9;
+  
+  }
+  .column1{
+    text-align:left;
+    margin-top: 200px;
+  }
+  .container2{
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-left: 50px;
+    margin-right: 50px;
+   
+  }
+  .container-fluid{
+    background-color: #F5F8F9;
+    margin-top: 100px;
+    margin-bottom: 100px;
+  }
+  .container3{
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-left: 50px;
+    margin-right: 50px;
+    
+  }
+  .card{
+    margin-top: 100px;
+    margin-bottom: 100px;
+  }
+  .container3-fluid{
+    background-color: #2D2D2D;
+    margin-top: 50px;
+    /* margin-bottom:50px; */
+  }
+  .container4{
+    color: white;
+  }
+  .col4{
+    text-align:center;
+  }
+  h6{
+    margin-left: 100px;
+   
+  }
+  .webware{
+    padding-left: 300px;
+  }
+  .container4 .row{
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+  .container5 .row{
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+  .container4 hr{
+    margin-top: 20px;
+  }
+  
